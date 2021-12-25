@@ -1,8 +1,8 @@
 ### I'm Justus.
 
-I program [@TexasTorque](https://github.com/texastorque).
+I program at [@TexasTorque](https://github.com/texastorque).
 
-I also build cryptocurrency investment software.
+I build cryptocurrency investment software.
 
 I also like to build programming languages.
 

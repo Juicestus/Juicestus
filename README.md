@@ -1,7 +1,9 @@
 ### I'm Justus.
 
-I program at First Robotics Team 1477, [@TexasTorque](https://github.com/texastorque).
-I build cryptocurrency investment software.
+I program [@TexasTorque](https://github.com/texastorque).
+
+I also build cryptocurrency investment software.
+
 I also like to build programming languages.
 
 You can find more about me on [my website](https://justusl.com/).

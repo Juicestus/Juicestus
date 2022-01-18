@@ -2,10 +2,6 @@
 
 I program at [@TexasTorque](https://github.com/texastorque).
 
-I build cryptocurrency investment software.
-
-I also like to build programming languages.
-
 You can find more about me on [my website](https://justusl.com/).
 
 <!--

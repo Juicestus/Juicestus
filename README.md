@@ -1,6 +1,4 @@
-### I'm Justus.
-
-I program at [@TexasTorque](https://github.com/texastorque).
+Programming lead [@TexasTorque](https://github.com/texastorque).
 
 You can find more about me on [my website](https://justusl.com/).
 

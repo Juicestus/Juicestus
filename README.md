@@ -9,7 +9,8 @@ You can find more about me on [my website](https://justusl.com/).-->
 
 I'm the programming lead at [@TexasTorque](https://github.com/texastorque).  | You can find more about me on [my website](https://justusl.com/).
 :-------------------------:|:-------------------------:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juicestus&theme=github_dark)  |  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juicestus&theme=github_dark)
+<br>&nbsp; ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juicestus&theme=github_dark) <br> (so embarrassing) <br>&nbsp; | <br>&nbsp; ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juicestus&theme=github_dark) <br> (not that bad) <br>&nbsp;
+
 
 <!--
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juicestus&theme=github_dark)

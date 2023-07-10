@@ -1,6 +1,6 @@
 Software Engineer at [WebCreek](https://webcreek.com) working on [TrainBeyond](https://trainbeyond.com).
 
-Programming lead at [TexasTorque](https://github.com/texastorque).
+Robot Build Director and ex. Software Director at [TexasTorque](https://github.com/texastorque).
 
 You can find more about me on [my website](https://justusl.com/).
 

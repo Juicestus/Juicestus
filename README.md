@@ -1,5 +1,3 @@
-Writing compilers with paramaterized typing is hard!
-
 Software Engineer at [WebCreek](https://webcreek.com) working on [TrainBeyond](https://trainbeyond.com).
 
 Robot Build Director and ex. Software Director at [TexasTorque](https://github.com/texastorque).

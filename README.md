@@ -1,7 +1,5 @@
 Software engineer at [WebCreek](https://webcreek.com) working on [TrainBeyond](https://trainbeyond.com).
 
-Robot build director and former software director at [TexasTorque](https://github.com/texastorque).
-
 You can find more about me on [my website](https://justusl.com/).
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicestus&show_icons=true&theme=github_dark)-->

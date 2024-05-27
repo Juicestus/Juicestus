@@ -1,6 +1,6 @@
-Software engineer at [WebCreek](https://webcreek.com) working on [TrainBeyond](https://trainbeyond.com).
+[justusl.com](https://justusl.com/).
 
-You can find more about me on [my website](https://justusl.com/).
+😎🔥 i love C++ and robot software 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicestus&show_icons=true&theme=github_dark)-->
 <!--![Global](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juicestus&theme=github_dark)-->

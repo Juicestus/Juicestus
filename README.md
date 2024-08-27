@@ -1,8 +1,9 @@
-
-
+Vim enthusiast    
+[justusl.com](justus.com)
+<!-- 
 ![twitter](https://preview.redd.it/i-have-a-life-v0-afsslq41x54d1.jpeg?width=1080&crop=smart&auto=webp&s=d4582decad9cc281ff941f9a519ce9f8110513ac)
 
-
+-->
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicestus&show_icons=true&theme=github_dark)-->
 <!--![Global](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juicestus&theme=github_dark)-->

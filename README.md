@@ -1,5 +1,5 @@
 Vim enthusiast    
-[justusl.com](justus.com)
+[justusl.com](https://justus.com)
 <!-- 
 ![twitter](https://preview.redd.it/i-have-a-life-v0-afsslq41x54d1.jpeg?width=1080&crop=smart&auto=webp&s=d4582decad9cc281ff941f9a519ce9f8110513ac)
 

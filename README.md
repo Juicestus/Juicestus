@@ -1,5 +1,22 @@
-Vim enthusiast    
-[justusl.com](https://justus.com)
+Find more about me on [justusl.com](https://justusl.com). 
+
+> Prometheus showed us<br>
+> silicon. 
+>
+> It was not an obvious pain<br>
+> like fire.<br>
+> It was more patient.
+>
+> Most my life revolves<br>
+> around metal rectangles<br>
+> that we breathed life into.
+> 
+> -- <cite>some guy on instagram.</cite>
+<!--
+I used to code and make >=1 git commit every day. <br>
+Then got more busy with school and career and this makes me sad.<br>
+Excited to return.-->
+
 <!-- 
 ![twitter](https://preview.redd.it/i-have-a-life-v0-afsslq41x54d1.jpeg?width=1080&crop=smart&auto=webp&s=d4582decad9cc281ff941f9a519ce9f8110513ac)
 

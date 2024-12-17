@@ -1,4 +1,4 @@
-Incoming software engineer intern @[Microsoft](https://github.com/microsoft).
+Incoming software engineer intern [@Microsoft](https://github.com/microsoft).
 
 Find more about me on [justusl.com](https://justusl.com). 
 

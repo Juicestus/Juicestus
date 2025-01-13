@@ -1,7 +1,6 @@
-Incoming software engineer intern [@Microsoft](https://github.com/microsoft).
+Incoming software engineer intern [@Microsoft](https://github.com/microsoft). Find more about me by visiting [justusl.com](https://justusl.com). 
 
-Find more about me on [justusl.com](https://justusl.com). 
-
+<!--
 > Prometheus showed us<br>
 > silicon. 
 >
@@ -14,6 +13,7 @@ Find more about me on [justusl.com](https://justusl.com).
 > that we breathed life into.
 > 
 > -- <cite>some guy on instagram.</cite>
+-->
 <!--
 I used to code and make >=1 git commit every day. <br>
 Then got more busy with school and career and this makes me sad.<br>

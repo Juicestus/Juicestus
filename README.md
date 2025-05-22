@@ -1,4 +1,6 @@
-Incoming software engineer intern [@Microsoft](https://github.com/microsoft). Find more about me by visiting [justusl.com](https://justusl.com). ![](https://github-telem.onrender.com/img)
+I'm a [Microsoft](https://github.com/microsoft) software intern, so my github activity will be limited this summer.
+
+You can find more about me by visiting [justusl.com](https://justusl.com).
 
 I'm mostly interested in systems, networking, os, microarchitecture, performance, etc. 
 

@@ -1,8 +1,8 @@
-I'm a [Microsoft](https://github.com/microsoft) software intern, so my github activity will be limited this summer.
+I'm an incoming software engineering intern at Citadel. In the past, I interned for Microsoft, NASA, and a number of other smaller companies. 
 
 You can find more about me by visiting [justusl.com](https://justusl.com).
 
-I'm mostly interested in systems, networking, os, microarchitecture, performance, etc. 
+I'm mostly interested in systems programming, distributed systems, networking, os, microarchitecture, performance, etc. 
 
 <!--
 > Prometheus showed us<br>

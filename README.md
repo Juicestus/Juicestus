@@ -4,6 +4,15 @@ You can find more about me by visiting [justusl.com](https://justusl.com).
 
 I'm mostly interested in systems programming, distributed systems, networking, os, microarchitecture, performance, etc. 
 
+> Include C code snippet for fault handling
+```c
+if (HasFaults())
+{
+    ClearFaults();
+    // problem solved
+}
+```
+
 <!--
 > Prometheus showed us<br>
 > silicon. 

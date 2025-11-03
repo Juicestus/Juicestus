@@ -1,6 +1,6 @@
-I'm an incoming software engineering intern at Citadel. In the past, I interned for Microsoft, NASA, and a number of other smaller companies. 
+I'm an incoming software engineering intern at [Citadel](https://citadel/com). In the past, I interned for [Microsoft](https://microsoft.com), [NASA](https://nasa.gov), and a number of other smaller companies. 
 
-You can find more about me by visiting [justusl.com](https://justusl.com).
+You can find more about me by visiting [justusl.com](https://justusl.com). 
 
 I'm mostly interested in systems programming, distributed systems, networking, os, microarchitecture, performance, etc. 
 

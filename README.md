@@ -1,8 +1,10 @@
 I'm an incoming software engineering intern at [Citadel](https://citadel/com). In the past, I interned for [Microsoft](https://microsoft.com), [NASA](https://nasa.gov), and a number of other smaller companies. 
 
-You can find more about me by visiting [justusl.com](https://justusl.com). 
+At college I research cache-optimal samplesort partitions under [Dr. Dmitri Loguinov](https://irl.cse.tamu.edu/people/dmitri/). You can find more about me by visiting [justusl.com](https://justusl.com). 
 
-I'm mostly interested in systems programming, distributed systems, networking, os, microarchitecture, performance, etc. 
+I'm mostly interested in systems programming, big-data processing, distributed systems, networking, os, microarchitecture, performance, etc. 
+
+<img src="evolution.png" alt="evolution" width="450px">
 
 <!--
 > Prometheus showed us<br>

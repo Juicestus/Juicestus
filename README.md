@@ -13,12 +13,12 @@ Excited to return.-->
 
 <!-- <img width=100px src=cit1.png></img> -->
 
-<img width=100px src=mycomputer.png></img>
-
-Citadel intern. Texas A&M undergrad. C(++) enthusiast. Rust hater.
-
-<a href="https://justusl.com">justusl.com</a>
+<!-- <img width=100px src=mycomputer.png></img> -->
 
 
+<!-- <a href="https://justusl.com">justusl.com</a> -->
+|     |     | 
+| --- | --- | 
+| <img width=100px src=mycomputer.png></img> | <h1> <a href="https://justusl.com">JUSTUSL.COM</a></h1> | |
 
-
+<!--Texas A&M undergrad. C(++) enthusiast. Rust hater.-->
